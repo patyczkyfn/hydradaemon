@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "patyczkyfn",
+  "repo": "hydradaemon",
+  "name": "patyczkyfn",
+  "email": "pkuba932@gmail.com",
+}
